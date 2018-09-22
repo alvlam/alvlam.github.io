@@ -7,5 +7,6 @@ layout: default
 * [Useful links](links.md)
 
 ## Useful Links
-* http://guides.github.com/features/mastering-markdown/
-* http://jekyllrb.com/docs/pages/
+* <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+* <http://guides.github.com/features/mastering-markdown/>
+* <http://jekyllrb.com/docs/pages/>
