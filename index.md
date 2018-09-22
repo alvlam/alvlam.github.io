@@ -7,5 +7,5 @@ layout: default
 * ...
 
 ## Useful Links
-* guides.github.com/features/mastering-markdown/
-* jekyllrb.com/docs/pages/
+* http://guides.github.com/features/mastering-markdown/
+* http://jekyllrb.com/docs/pages/
