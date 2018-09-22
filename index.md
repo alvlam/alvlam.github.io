@@ -9,4 +9,5 @@ layout: default
 * ...
 
 ## Useful Links
+* https://guides.github.com/features/mastering-markdown/
 * https://jekyllrb.com/docs/pages/
