@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Hello world! 
 
 ##Works in progress:</h3>
