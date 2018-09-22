@@ -4,7 +4,7 @@ layout: default
 
 # Hello world! 
 
-## Works in progress:</h3>
+## Works in progress:
 * [Sticks in!](sticks-in/)
 * ...
 
