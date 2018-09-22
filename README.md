@@ -1,10 +1,2 @@
-# Alvin's web-dev playground.
-
-## Work in progress:
-
-- `sticks-in`: A team picker web-app
-
-
-## Useful links
-- https://pages.github.com/
-- https://guides.github.com/features/mastering-markdown/
+# Sticks in!
+A team picker web-app
