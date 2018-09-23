@@ -8,3 +8,4 @@ title: Useful Links
 * <http://jekyllrb.com/docs/pages/>
 * <http://jmcglone.com/guides/github-pages/>
 * <https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page>
+* <https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/>
