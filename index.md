@@ -4,5 +4,5 @@ layout: default
 
 ## Works in progress:
 * [Sticks in!](sticks-in/)
-* [Firebase Quickstart DB sample](quickstart-js/database/)
+* [Firebase Quickstart DB sample](database/)
 * [Useful links](links.md)
