@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Useful Links
 ---
+## Tips:
+- GitHub pages allows a single static page in the master branch, by default. Open a gh_pages branch to enable additional static pages (but must be in the same root directory)
+
+
 ## Useful links:
 1. <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 1. <http://guides.github.com/features/mastering-markdown/>
