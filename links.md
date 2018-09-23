@@ -2,7 +2,9 @@
 layout: default
 ---
 ## Tips:
-- GitHub pages allows a single static page in the master branch, by default. Open a gh_pages branch to enable additional static pages (but must be in the same root directory)
+- GitHub pages allows a single static page in the master branch by default, e.g. `index.html` via `username.github.io`.
+  - Open a `gh-pages` branch to automatially enable additional static pages (but must be in the same root directory), e.g. `username.github.io/page2.html`
+- Open new projects wth respective `gh-pages` branches to automatially enable additional static pages as sub-folders, e.g. `username.github.io/project/`
 
 
 ## Useful links:
