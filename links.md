@@ -20,3 +20,5 @@ layout: default
 1. <https://medium.com/pan-labs/dynamic-web-apps-on-github-pages-for-free-ffac2b776d45>
 ### Bootstrap
 1. <http://getbootstrap.com/docs/4.1/examples/>
+#### Javascript
+1. <https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea>
