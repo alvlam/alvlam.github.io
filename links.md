@@ -18,7 +18,11 @@ layout: default
 ### Firebase
 1. <https://medium.com/@terryjohnpaul20/installation-of-firebase-in-macos-sierra-8f41fde8410b>
 1. <https://medium.com/pan-labs/dynamic-web-apps-on-github-pages-for-free-ffac2b776d45>
-### Bootstrap
+### Base libraries
 1. <http://getbootstrap.com/docs/4.1/examples/>
+1. <http://underscorejs.org/>
+1. <http://handlebarsjs.com/>
+1. <https://github.com/douglascrockford/JSON-js>
+1. <http://backbonejs.org/>
 #### Javascript
 1. <https://medium.com/@coreyhowell/javascript-for-the-impatient-backbonejs-part-1-7f4dba8fcea>
