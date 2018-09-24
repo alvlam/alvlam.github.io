@@ -15,3 +15,4 @@ layout: default
 1. <https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page>
 1. <https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/>
 1. <https://medium.com/@terryjohnpaul20/installation-of-firebase-in-macos-sierra-8f41fde8410b>
+1. <https://medium.com/pan-labs/dynamic-web-apps-on-github-pages-for-free-ffac2b776d45>
